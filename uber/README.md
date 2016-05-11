@@ -1,6 +1,6 @@
 EU and Swiss data protection laws allow individuals to access their personal data. 
 
-This is the result of doing such a request for data with the company Uber. 
+This is the result of doing such a request for data with the company Uber. Note that I have only used Uber for a handful of rides (all in the U.S.)
 
 Data file
 =========
@@ -17,7 +17,7 @@ For privacy reasons, Uber removed some of the data prior to sending over the res
  * BBB: phone
  * CCC: ?????
  * DDD: last 4 digit credit card, bank, expiration date
- * EEEEEEEE-EEEE-EEEE-EEEE-EEEEEEEEEEEE: Advertiser ID
+ * EEEEEEEE-EEEE-EEEE-EEEE-EEEEEEEEEEEE: (Apple) Advertiser ID
  * FFFFFFFF-FFFF-FFFF-FFFF-FFFFFFFFFFFF: Uber ID
 
 History of the request
