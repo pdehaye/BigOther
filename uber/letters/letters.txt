@@ -1,0 +1,107 @@
+========================================================================================================================
+Pein Van Noort <pein.vannoort@uber.com> to me                                                              April 29 2016
+------------------------------------------------------------------------------------------------------------------------
+Dear Mr. Dehaye,
+
+Thank you for your letter of April 25th, 2016, with regard to your personal data request. You have kindly provided a copy of your ID to identify yourself as an account holder. However, as Uber does not identify account holders based upon ID’s, we cannot verify the legitimacy of your request. The copy has been destroyed upon receipt. 
+
+To accommodate your request and to make sure that you do not provide too much data to identify yourself, please be so kind to provide the information set out in the attachment and your request will be processed in due course.
+
+In the meantime, please be advised that Uber B.V., established in the Netherlands, is the data controller for all Uber user data outside North America and the correct entity to handle your subject access request. As a consequence thereof, Dutch law is applicable and all subject access requests will be considered against the Dutch Data Protection Act.  
+
+Uber B.V. conveniently provides Uber users with self-service access to their personal data in the Uber app, or in their online customer account [riders.uber.com], where you can also find information on your recent trips, resend yourself receipts and update your profile information.
+
+For your convenience you can also find a clear summary of the data that we process in our Privacy Policy (https://www.uber.com/legal/privacy).
+
+Sincerely, 
+Pein
+
+Attachment: 2016-04-29-subject-access-request-form.pdf
+
+========================================================================================================================
+========================================================================================================================
+Me to Pein Van Noort <pein.vannoort@uber.com>                                                              April 29 2016
+------------------------------------------------------------------------------------------------------------------------
+
+Dear Mr Van Noort,
+I am glad to see a verified letter prompted Uber to at least acknowledge my request this time, unlike for my previous request, in July 2015. I wasn't quite expecting however that Uber would simply destroy this letter upon receipt. You have nevertheless found in this letter my email address, which you used and is also the address I used for registering on Uber. 
+Your legal theory on which law is applicable is doubtful at best. Are also relevant, at the very least: EU Privacy Directive 95/46/EC, the US/CH Safe Harbor principles, the US/EU Safe Harbor principles, the Dutch Data Protection Act, the Swiss Data Protection Act, the EU-Swiss decisions concerning cooperation in the domain of data protection, and, finally, recent decisions of the EUCJ. I look forward to exploring all this with you should there be a need.
+The form you attach is interesting. It basically contains a request for all the information I had already sent to you (but that you destroyed). To refresh your memory, I attach to this very email a copy of the letter originally sent to you (minus my ID, since you don't seem to see a need for it). Please don't tell me this time around you deleted the attachment. 
+You do ask in your form for one additional piece of information: for my rating. Obviously, Uber already has this information, which is of little value for the purpose of identification: everyone knows there is very little entropy in that number. I suggest instead that you update your app, and add a line at "Account" saying "I wish to have access to my personal data", "I confirm my request for personal data" or something similar. I would gladly click this line then. 
+Note however that this update would have to come quickly. I submitted my original request for personal data on April 25th, and I consider the deadline for Uber to respond to run starting at that date.
+Sincerely,
+Paul-Olivier Dehaye
+
+Attachment: 2016-04-25-original-request.pdf
+
+========================================================================================================================
+========================================================================================================================
+Pein Van Noort <pein.vannoort@uber.com> to me                                                              April 29 2016
+------------------------------------------------------------------------------------------------------------------------
+Dear Mr. Dehaye,
+
+I appreciate your advice. However, it is not entirely correct as one other additional piece of information Uber was requesting is your mobile phone number associated with your account. To be clear, of course I have not destroyed your letter, just your ID as we do not want to gather any data that we have no use for.
+
+The combination of your email address, telephone number, name and rating, will serve as an easy but sufficient way to identify you as the account holder. If we would suffice with just you email address, any person that has some relationship with you could “guess”  your email address and request your data. The same would apply for your phone number if for example your partner wishes to get access to your trip data. That’s why we ask for one additional piece of data, your rating.
+
+So if you could provide me with your phone number and rating, I would be glad to process your request.
+
+With kind regards,
+-- 
+Pein
+
+========================================================================================================================
+========================================================================================================================
+Me to Pein Van Noort <pein.vannoort@uber.com>                                                              April 29 2016
+------------------------------------------------------------------------------------------------------------------------
+Dear Mr Van Noort,
+True, I had not included my phone number in the letter. It is +XX XXX XX XX. This is also the number that has been associated to my Uber account from the start. You also have to take into account the fact that I have now responded twice to an email addressed to this address. If this is not sufficient, you can also call me now or next week, at any time, and I will respond. This system strikes me as a better verification system than the one you suggest, for the laudable goal that you describe. Remember that I can happily reset my Uber password based only on having access to just one of my email or phone number, and from there access the rating.
+The user rating is a very poor authentication method. Many people voluntarily disclose it, as they do not expect it to have the role you seem to ascribe to it. In fact, I do know the email, phone number and rating of a few acquaintances and could easily elicit the rating of others through social engineering techniques. 
+A truly better way would be, as I suggested, some direct link inside the Uber app for individuals to initiate from their account the data request. 
+Sincerely,
+Paul Dehaye
+
+========================================================================================================================
+========================================================================================================================
+Pein Van Noort <pein.vannoort@uber.com> to me                                                                 May 6 2016
+------------------------------------------------------------------------------------------------------------------------
+
+Dear Mr. Dehaye,
+
+With reference made to your letter of April 25, 2016, please find attached a clear overview of the personal data of yourself that Uber BV controls. It is a password protected Excel document. We will send the password under a separate email. 
+
+If you feel that we have not satisfactorily responded to your request, please let us know by sending a more detailed request to setting out what particular information you are looking for, and we’ll do our best to help you. Be advised that we may charge you an administrative fee of up to € 4,50, depending on the scope of your request.
+
+Finally, I have taken note of your suggestions, and can confirm that Uber is working on a more automated and user friendly way to file for these kinds of request. Your suggestions are appreciated.
+
+With kind regards,
+
+Uber B.V.
+
+-- 
+Pein
+
+Attachment: [data, in Excel sheet, password protected]
+
+========================================================================================================================
+========================================================================================================================
+Pein Van Noort <pein.vannoort@uber.com> to me                                                                 May 6 2016
+------------------------------------------------------------------------------------------------------------------------
+[separate email with the password]
+
+========================================================================================================================
+========================================================================================================================
+Me to Pein Van Noort <pein.vannoort@uber.com>                                                                 May 6 2016
+------------------------------------------------------------------------------------------------------------------------
+
+Thank you for this. I have been able to open the file. 
+Here is the first feedback on the return:
+ - Don't password lock the file for editing. I believe that is actually against the law, and suspect it is in fact not in Uber's interest anyways.
+ - I was surprised to see the term "cardio" appear as a qualifier for my credit card
+ - Can you help me understand how you encode the location information for each ride? 
+ - Can you confirm no location information is stored at all by Uber beyond four fields per ride, in a way that could be associated to me?
+
+========================================================================================================================
+
+[No response so far]
+
