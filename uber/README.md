@@ -23,6 +23,6 @@ For privacy reasons, Uber removed some of the data prior to sending over the res
 History of the request
 ======================
 
-I made a first request, by email, in July 2015. It was addressed to the Uber headquarters in the US, who punted to their European HQ in the Netherlands, but I never heard back from them. I tried to get the Dutch data protection authority to investigate on the topic, but they declined. 
+I made a first request, by email, in July 2015. It was addressed to the Uber headquarters in the US, who punted to their European HQ in the Netherlands, but I never heard back from them. I tried to get the [Dutch data protection authority to investigate on the topic](https://www.reddit.com/r/thenetherlands/comments/3rxs9a/help_with_submitting_a_verzoekschrift_bij_de/), but they declined and told me I would have to sue. The Belgian DPA refused to get involved, despite my nationality, as I had not used Uber there. 
 
 On April 25th 2016, I filed again, this time by certified mail directly addressed in the Netherlands, which finally prompted a response from Uber NL. You can see the course of the exchange in the `letters/` folder. 
