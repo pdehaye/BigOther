@@ -102,6 +102,187 @@ Here is the first feedback on the return:
  - Can you confirm no location information is stored at all by Uber beyond four fields per ride, in a way that could be associated to me?
 
 ========================================================================================================================
+========================================================================================================================
+Me to Pein Van Noort <pein.vannoort@uber.com>                                                                 May 20 2016
+------------------------------------------------------------------------------------------------------------------------
+Hi
+I still haven't received a response from you on my email of May 6th, specifically concerning:
+ - the term cardio
+ - the location information encoding
+ - a confirmation that Uber does not track each ride beyond the four locations in the file you sent me. In fact, I now realise that this is not true and that Uber indeed stores more information (since I can see it online). I would thus like to get that information as well. 
+In addition, Keith Chen, Uber's head of economic research, has publicly stated that Uber collects battery charge information from its users. I do not see that data in what you sent me, and would therefore ask you for a copy as well.
+Sincerely, 
 
-[No response so far]
+========================================================================================================================
+========================================================================================================================
+Pein Van Noort <pein.vannoort@uber.com> to me                                                                 May 23 2016
+------------------------------------------------------------------------------------------------------------------------
+Dear Paul,
+
+Thank you for your email. I hadn’t forgotten, but have been quite busy. I will come back to your additional questions before the end of the week.
+
+Best regards,
+
+========================================================================================================================
+========================================================================================================================
+Pein Van Noort <pein.vannoort@uber.com> to me                                                                 May 27 2016
+------------------------------------------------------------------------------------------------------------------------
+Dear Paul,
+
+As promised, I would come back to you on your additional questions regarding our response to your Subject Access Request.
+
+With regard to the term “cardio” mentioned in the sheet with Payment Method Details, I can inform you that this refers to Card.io, which is a tool of Paypal that can be used in the Uber app to scan your credit card. If you did not use this functionality, this is not relevant to your account.
+
+The encoding we use for location information is confidential and proprietary company information. For your convenience I can inform you that we do encrypt the data while in transit and is stored securely in our databases. The location data we provided you from your trips reflects the way in which we store location data of a trip in riders’ accounts. The actual trip data -the lat/longs along the trip route - is collected from the driver app. That data is used to provide the map image of the trip, as is directly accessible to data subjects in their accounts.
+
+With regard to the battery charge data, we disclose in our Privacy Statement that we collect certain device information.  Like the other device information - e.g., hardware model, operating system, etc., this device information is collected for internal data analytics and trouble-shooting bugs. It is not stored in users’ accounts, and the manner in which it is currently stored makes it very difficult  to retrieve on the individual user basis. 
+
+I trust I have informed you sufficiently with the above.
+
+With kind regards,
+========================================================================================================================
+========================================================================================================================
+Me to Pein Van Noort <pein.vannoort@uber.com>                                                               May 27 2016
+------------------------------------------------------------------------------------------------------------------------
+Dear Pein,
+- Thank you for your explanation of "cardio". Without the dot it was, you will admit, a bit confusing. 
+- I understand that you consider the encoding of location data as proprietary information.
+- The actual trip data is probably more complex than just geolocation. Indeed, it would most likely include (for instance) accuracy information of the GPS signal and timing information. Some of that information is indeed accessible to data subjects in the accounts, but not all of it. Seeing a path I have traced on a map does not indicate to me the time it took me to move from one point to the other. Given that I am unlikely to have changed seat row during a Uber ride, and that the driver is unlikely to have  moved his/her cell phone to the back of the car, this is to me personal data. But the raw data, even if collected through the app installed on a driver's phone, is to me personal data. Essentially, Uber is hiring individuals and equipping them in order to simultaneously move me around and track my location. I repeat my request to you for the entirety of that data, and consider this request as running from the end of April. 
+- As for the battery information, you seem to agree that this constitutes personal data. Uber's privacy policy on the topic reads as follows:
+"""
+Device Information: We may collect information about your mobile device, including, for example, the hardware model, operating system and version, software and file names and verions, preferred language, unique device identifier, advertising identifiers, serial number, device motion information, and mobile network information.
+"""
+I observe that "battery information" does not figure explicitly in the information that is collected, but is covered by the "for example" clause. I do not however think this notice is sufficient. Could you please correct the typo, and inform me through an exhaustive list of all the other device information that Uber collects? I would think this is necessary for Uber to obtain freely given, specific and informed consent for the collection. Thank you for informing me about Uber's current usage of that data. Could you also inform me of Uber's planned use of that data? As for the difficulty of recovering that data on a per user basis, I believe the burden on Uber is not a sufficient reason for refusing an access request. Could you please clarify costs for retrieving that data? 
+Sincerely,
+
+========================================================================================================================
+========================================================================================================================
+Me to Pein Van Noort <pein.vannoort@uber.com>                                                                Jun 2 2016
+------------------------------------------------------------------------------------------------------------------------
+Dear Pein,
+One more remark: I understand "The encoding [Uber] use[s] for location information is confidential and proprietary company information."
+ However the EU Data Protection Directive states that: 
+"every data subject the right to obtain from the controller [...] communication to him in an intelligible form of the data undergoing processing and of any available information as to their source,"
+I think the disclosure received from Uber of that location information is thus insufficient. The data offered in those 18 "trip details" fields was still encoded and thus not intelligible. Could you please provide me this as well?
+Sincerely,
+
+========================================================================================================================
+========================================================================================================================
+Pein Van Noort <pein.vannoort@uber.com> to me                                                                Jun 2 2016
+------------------------------------------------------------------------------------------------------------------------
+Dear Paul,
+
+We are looking into your question regarding the device data,. This may need some engineering resources, so please be aware that it may take a little time. I will answer all your questions in one go, when I have the data available.
+
+========================================================================================================================
+========================================================================================================================
+Pein Van Noort <pein.vannoort@uber.com> to me                                                                Jun 3 2016
+------------------------------------------------------------------------------------------------------------------------
+Dear Paul,
+
+With regard to the encoding I can inform you that we use simple longitude and latitude to determine positions, and then give it a code to link it with a trip. The intelligible form of the data, as required by the Directive, is the trip map (picture) that is provided to you in the app in the “Trip History". The source of the data is course is the app and not the driver. For clarification purposes, I just want to point out that your comment "Uber is hiring individuals and equipping them in order to simultaneously move me around and track my location.” is not correct. Drivers are independent contractors and are not employed by Uber. 
+
+I agree that the location data provided to you is of no particular use and we will change our process in that regard. The data points that Uber collects, including the ones that were provided to you in code, that are collected either through the rider app or the driver app, are made intelligible with the picture (map) of the trip that is already available to you via the app. It is of no use to provide the raw  data points collected via the driver app, as that would only be an unintelligible sheet of data for a regular person. It will also not provide the opportunity to check the accurateness of the data, or correct it, which is the purpose of the subject access request under the Directive. From the Trip History in the app you are also able to obtain the time stamps connected with the trip. If you desire, I can send you the Trip History files that are already available to you in the App. 
+
+As indicated in my previous email, we are looking into the device data and I will come back to you on that later.
+========================================================================================================================
+========================================================================================================================
+Pein Van Noort <pein.vannoort@uber.com> to me                                                                Jun 3 2016
+------------------------------------------------------------------------------------------------------------------------
+Dear Paul,
+
+With regard to the encoding I can inform you that we use simple longitude and latitude to determine positions, and then give it a code to link it with a trip. The intelligible form of the data, as required by the Directive, is the trip map (picture) that is provided to you in the app in the “Trip History". The source of the data is course is the app and not the driver. For clarification purposes, I just want to point out that your comment "Uber is hiring individuals and equipping them in order to simultaneously move me around and track my location.” is not correct. Drivers are independent contractors and are not employed by Uber. 
+
+I agree that the location data provided to you is of no particular use and we will change our process in that regard. The data points that Uber collects, including the ones that were provided to you in code, that are collected either through the rider app or the driver app, are made intelligible with the picture (map) of the trip that is already available to you via the app. It is of no use to provide the raw  data points collected via the driver app, as that would only be an unintelligible sheet of data for a regular person. It will also not provide the opportunity to check the accurateness of the data, or correct it, which is the purpose of the subject access request under the Directive. From the Trip History in the app you are also able to obtain the time stamps connected with the trip. If you desire, I can send you the Trip History files that are already available to you in the App. 
+
+As indicated in my previous email, we are looking into the device data and I will come back to you on that later.
+========================================================================================================================
+========================================================================================================================
+Me to Pein Van Noort <pein.vannoort@uber.com>                                                                Jun 3 2016
+------------------------------------------------------------------------------------------------------------------------
+Dear Pein,
+Online, I see my trip itinerary, the date of the trip, the start time
+to the minute, the end time to the minute, and the time it took for
+the trip to the second. I do not see:
+ - information about precision of the geolocation;
+ - many missing timestamps (start, to the second or even lower; end,
+to the second; intermediate timestamps, etc);
+ - many other things (battery life, etc).
+Please explain to me how Uber is able to compute a trip time to the
+second without keeping track of timestamps beyond the minute.
+Please tell me if you keep timestamps together with the latitude and
+longitude, in those encoded cells you have sent me.
+Please tell me if you keep intermediate trip timestamps with the same
+encoding, coming from the driver app (you are not actually legally
+required to answer this), because it would be indicative of the fact
+that you also log my intermediate timestamps, which I can't see
+online.
+I agree that your processes need to change. However, I disagree with
+the direction you want to change it. Unless you plan to change within
+a reasonable delay the web reports to include a lot more information
+while keeping them intelligible, custom reports and excel sheets and
+decoded cells will have to do. Whether many people can make sense of
+an excel sheet is irrelevant. I can and I am currently exercising my
+rights, and Uber by the end of its deadline would not be respecting
+the law.
+For clarification purposes, the exact status of Uber drivers is still
+unclear in many countries. What is not disputed is that 1) Uber pays
+drivers 2) Uber provides financial aid to some drivers to buy
+equipment 3) One of the end result of taking Uber trips (or even
+installing the app) is that one is tracked, by Uber.
+For further clarification purposes, you are conflating Articles 12.a
+and 12.b from the Directive. 12.a provides for generic access and
+transparency, 12.b provides for some form of right of correction. 12.a
+is not conditional to 12.b
+Sincerely,
+========================================================================================================================
+========================================================================================================================
+Pein Van Noort <pein.vannoort@uber.com> to me                                                               Jun 27 2016
+------------------------------------------------------------------------------------------------------------------------
+Dear Paul-Olivier,
+
+My apologies for the delay in getting back to you, which was partly due to my holiday.
+
+Please find attached the updated sheet with your data, which has the same password, including additional device data fields and trip gps data with timestamps. 
+
+With kind regards,
+========================================================================================================================
+========================================================================================================================
+Me to Pein Van Noort <pein.vannoort@uber.com>                                                                Jun 3 2016
+------------------------------------------------------------------------------------------------------------------------
+Hi
+Thank you.
+I understand fields 23 to 30 of device information are being currently worked on, transforming "various" into actual data fields/separate spreadsheets?
+Sincerely,
+========================================================================================================================
+========================================================================================================================
+Me to Pein Van Noort <pein.vannoort@uber.com>                                                                Jun 3 2016
+------------------------------------------------------------------------------------------------------------------------
+Hi
+I have not heard back from you since June 27. I also have still not received the data associated to  my device's battery life, despite your suggestion that Uber engineers were working on it. 
+Please get this data to me as soon as possible.
+Sincerely,
+========================================================================================================================
+========================================================================================================================
+Pein Van Noort <pein.vannoort@uber.com> to me                                                               Aug 29 2016
+------------------------------------------------------------------------------------------------------------------------
+Dear Mr. Dehaye,
+
+My sincerest apologies. Although it took some time for the engineers to pull the data, it didn’t take this long. I truly thought that I had sent you the updated data sheet, but I can’t find it in my sent items. Of course I would not have left your email unanswered for such a long period of time.
+
+Please find attached your updated data sheet, where you can find the requested data under the tab “detailed device information”. The same password is applicable.
+========================================================================================================================
+========================================================================================================================
+Me to Pein Van Noort <pein.vannoort@uber.com>                                                                Dec 8 2016
+------------------------------------------------------------------------------------------------------------------------
+Dear Pein,
+I wanted, as a follow up to our exchange, to share the following two links.
+One shows the value that the general public might see in Uber sharing even such minute details as discussed prior with you:
+https://blog.lukaszolejnik.com/battery-status-information-used-for-fraud-detection/
+As you will see, one can only go so far based on Subject Access Requests. 
+A second interesting discussion that the recent sharing of our exchange on Twitter has led to is this one:
+https://twitter.com/cfarivar/status/806256831068774401
+That strikes me indeed as a very good question. Maybe you could route it internally more effectively?
+Sincerely,
+
 
