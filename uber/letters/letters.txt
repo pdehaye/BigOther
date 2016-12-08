@@ -187,17 +187,6 @@ I agree that the location data provided to you is of no particular use and we wi
 As indicated in my previous email, we are looking into the device data and I will come back to you on that later.
 ========================================================================================================================
 ========================================================================================================================
-Pein Van Noort <pein.vannoort@uber.com> to me                                                                Jun 3 2016
-------------------------------------------------------------------------------------------------------------------------
-Dear Paul,
-
-With regard to the encoding I can inform you that we use simple longitude and latitude to determine positions, and then give it a code to link it with a trip. The intelligible form of the data, as required by the Directive, is the trip map (picture) that is provided to you in the app in the “Trip History". The source of the data is course is the app and not the driver. For clarification purposes, I just want to point out that your comment "Uber is hiring individuals and equipping them in order to simultaneously move me around and track my location.” is not correct. Drivers are independent contractors and are not employed by Uber. 
-
-I agree that the location data provided to you is of no particular use and we will change our process in that regard. The data points that Uber collects, including the ones that were provided to you in code, that are collected either through the rider app or the driver app, are made intelligible with the picture (map) of the trip that is already available to you via the app. It is of no use to provide the raw  data points collected via the driver app, as that would only be an unintelligible sheet of data for a regular person. It will also not provide the opportunity to check the accurateness of the data, or correct it, which is the purpose of the subject access request under the Directive. From the Trip History in the app you are also able to obtain the time stamps connected with the trip. If you desire, I can send you the Trip History files that are already available to you in the App. 
-
-As indicated in my previous email, we are looking into the device data and I will come back to you on that later.
-========================================================================================================================
-========================================================================================================================
 Me to Pein Van Noort <pein.vannoort@uber.com>                                                                Jun 3 2016
 ------------------------------------------------------------------------------------------------------------------------
 Dear Pein,
@@ -248,7 +237,7 @@ Please find attached the updated sheet with your data, which has the same passwo
 With kind regards,
 ========================================================================================================================
 ========================================================================================================================
-Me to Pein Van Noort <pein.vannoort@uber.com>                                                                Jun 3 2016
+Me to Pein Van Noort <pein.vannoort@uber.com>                                                                Jun 27 2016
 ------------------------------------------------------------------------------------------------------------------------
 Hi
 Thank you.
@@ -256,7 +245,7 @@ I understand fields 23 to 30 of device information are being currently worked on
 Sincerely,
 ========================================================================================================================
 ========================================================================================================================
-Me to Pein Van Noort <pein.vannoort@uber.com>                                                                Jun 3 2016
+Me to Pein Van Noort <pein.vannoort@uber.com>                                                                Aug 27 2016
 ------------------------------------------------------------------------------------------------------------------------
 Hi
 I have not heard back from you since June 27. I also have still not received the data associated to  my device's battery life, despite your suggestion that Uber engineers were working on it. 
