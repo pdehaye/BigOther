@@ -2,6 +2,11 @@ EU and Swiss data protection laws allow individuals to access their personal dat
 
 This is the result of doing such a request for data with the company Uber. Note that I have only used Uber for a handful of rides (all in the U.S.)
 
+Credit
+======
+
+Please credit Paul-Olivier Dehaye, co-founder of [PersonalData.IO](http://www.PersonalData.IO) if you use this data for research, art, education, journalism or business purposes.
+
 Data file
 =========
 
