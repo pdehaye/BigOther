@@ -38,3 +38,8 @@ This is the result of several requests. The first was in July 2015. It was addre
 
 On April 25th 2016, I filed again, this time by certified mail directly addressed in the Netherlands, which finally prompted a first successful response from Uber NL (see `uber_first_response.xlsx`). You can see the course of the exchange in the `letters/` folder. Further insistance from me led to more detailed response from Uber (`uber_second_response.xlsx`), including much more data.
 
+Battery level
+=============
+The data recovered includes battery levels. This is discussed in the following paper:
+"Battery Status Not Included: Assessing Privacy in Web Standards" Lukasz Olejnik, Steven Englehardt, Arvind Narayanan
+https://lukaszolejnik.com/AssessingPrivacyWebStandardsIWPE17.pdf
